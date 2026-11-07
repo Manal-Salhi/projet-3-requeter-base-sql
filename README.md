@@ -51,7 +51,7 @@ Ma mission : **construire une base de données relationnelle à partir de ces fi
 | [presentation_methodologie.pdf](presentation_methodologie.pdf) | La méthodologie étape par étape |
 | [document_technique.pdf](document_technique.pdf) | Le document technique complet (dictionnaire, schéma, import) |
 | [liste_requetes_sql.pdf](liste_requetes_sql.pdf) | Les 12 requêtes SQL et leurs résultats |
-| `.docx` | Les versions Word des deux documents (à télécharger) |
+
 
 ---
 👩‍💼 **Manal Salhi** – Business Analyst / Data Analyst · [LinkedIn](https://www.linkedin.com/in/manal-salhi-030a692b5/)
